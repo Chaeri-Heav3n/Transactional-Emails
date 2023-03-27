@@ -1,12 +1,10 @@
-# Transactional Email
+# Transactional Emails
 
-This transactional email template was created using email code best practices.
+Transactional emails are one-to-one emails that contain information about a recent transaction between you and the recipient. Examples include: digital receipts, customer feedback surveys, password reset, security check, and order or account confirmations. 
+## Demos
 
-## Demo
+#1. confirm-account.html: https://chaeri-heav3n.github.io/transactional.html
 
-https://chaeri-heav3n.github.io/transactional.html
-## Screenshots
+## #1. confirm-account.html
 
-![App Screenshot](https://i.ibb.co/VBM6vcQ/Screen-Shot-2023-03-06-at-10-02-12-PM.png)
-
-![App Screenshot](https://i.ibb.co/WvYk77R/Screen-Shot-2023-03-06-at-10-02-23-PM.png)
+![App Screenshot](https://i.ibb.co/FHpg6X0/Screen-Shot-2023-03-26-at-6-44-15-PM.png)
