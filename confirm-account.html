@@ -38,7 +38,7 @@
     }
 
     /* CUSTOM DARK MODE COLORS */
-	/*:root {
+	:root {
 		color-scheme: light dark;
 		supported-color-schemes: light dark;
         }
@@ -51,7 +51,7 @@
                 background-color: transparent!important;
                 color: #ffffff!important;
         }
-      }*/
+      }
   </style> 
 
 <!--[if (gte mso 9)|(IE)]>
@@ -148,9 +148,17 @@ div {margin: 0!important; }
                                                 <table cellpadding="0" cellspacing="0" border="0">
                                                     <tr>
                                                         <td align="center" bgcolor="#0f0f0f" style="border-radius: 3px;">
-                                                            <a href="https://example.com" target="_blank" style="padding: 15px 25px;border-radius: 3px;border: 1px solid #0f0f0f;display: inline-block;">
-                                                                <p style="color: #fff;font-size: 20px;">Confirm Account</p>
-                                                            </a>
+                                                            <div><!--[if mso]>
+                                                                <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:50px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#0f0f0f">
+                                                                  <w:anchorlock/>
+                                                                  <center>
+                                                                <![endif]-->
+                                                                    <a href="http://example" target="_blank"
+                                                              style="background-color:#0f0f0f;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:19px;font-weight:bold;line-height:65px;text-align:center;text-decoration:none;width:230px;-webkit-text-size-adjust:none;">Confirm Account</a>
+                                                                <!--[if mso]>
+                                                                  </center>
+                                                                </v:rect>
+                                                              <![endif]--></div>
                                                         </td>
                                                     </tr>
                                                 </table>
